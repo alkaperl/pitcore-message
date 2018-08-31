@@ -1,0 +1,29 @@
+{
+  "name": "pitcore-message",
+  "main": "./pitcore-message.min.js",
+  "version": "1.0.2",
+  "homepage": "https://github.com/alkaperl/pitcore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Pitcoin Message Verification and Signing for Pitcore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "pitcoin",
+    "pitcore",
+    "ltc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
